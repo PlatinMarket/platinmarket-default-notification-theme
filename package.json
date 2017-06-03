@@ -1,6 +1,6 @@
 {
   "name": "platinmarket-default-notification-theme",
   "folder": "default",
-  "scope": "notification",
+  "type": "notification",
   "label": "Varsayılan bildirim teması"
 }
